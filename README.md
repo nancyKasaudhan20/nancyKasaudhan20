@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nancy Kasaudhan</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img src="https://png.pngtree.com/png-clipart/20210128/ourmid/pngtree-girl-eating-food-png-image_2822783.jpg" alt="coding" align="right" >
+<img src="https://media.istockphoto.com/vectors/multitask-woman-mother-businesswoman-with-child-working-coocking-and-vector-id1388147280?k=20&m=1388147280&s=612x612&w=0&h=1_xy-X3xrcBFX_IUvUDL0NoGHxHds2LtIDzbwHIzXGw=" alt="coding" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancykasaudhan20&label=Profile%20views&color=0e75b6&style=flat" alt="nancykasaudhan20" /> </p>
 
