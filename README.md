@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nancy Kasaudhan</h1>
 <h3 align="center">A passionate learner from India</h3>
+<img src="https://cdn.dribbble.com/users/6051/screenshots/13935178/pitch_invites_01.png?compress=1&resize=400x300" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancykasaudhan20&label=Profile%20views&color=0e75b6&style=flat" alt="nancykasaudhan20" /> </p>
 
