@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancykasaudhan20" alt="nancykasaudhan20" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Js, DevOps**
+
 
 - 📫 How to reach me **nancykasaudhan2010@gmail.com**
 
